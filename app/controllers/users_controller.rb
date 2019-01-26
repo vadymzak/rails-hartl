@@ -1,5 +1,6 @@
 class UsersController < ApplicationController
   def new
+    byebug
   end
 
   def show
